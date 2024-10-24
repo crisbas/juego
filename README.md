@@ -1,4 +1,4 @@
-##Documentación del Juego de Dados
+## Documentación del Juego de Dados
 
 ## Descripción General
 Este proyecto implementa un juego de mesa basado en dados donde los jugadores compiten por conquistar columnas en un tablero. El juego está implementado en C++ y utiliza una arquitectura orientada a objetos.
